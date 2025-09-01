@@ -6,11 +6,8 @@ A simple and intuitive **task management application** built with the **MERN sta
 
 ## 🚀 Features  
 
-- User Authentication (**Register/Login with JWT**)  
 - Add, Edit, and Delete tasks  
-- Mark tasks as ✅ Completed / ⏳ Pending  
-- Categorize tasks by priority or due date  
-- Responsive design for mobile and desktop  
+- Mark tasks as ✅ Completed  
 - Secure backend with MongoDB + Express  
 
 ---
@@ -31,5 +28,5 @@ A simple and intuitive **task management application** built with the **MERN sta
 
 ---
 
-## 📂 Project Structure  
+<img width="1440" height="820" alt="Screenshot 2025-09-01 at 4 34 37 PM" src="https://github.com/user-attachments/assets/da826522-8fb2-4e52-b9af-2cc4b3f1ef0c" />
 
